@@ -31,3 +31,11 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+/*
+*/
+.carousel-caption {
+  color: #03bbc5;
+  text-shadow: 1px 1px #777;
+  font-size: 2.5rem;
+}
