@@ -51,11 +51,11 @@ body {
 .capC {
   color: #008cb0;
   font-size: 3em;
-  font-family: 'Montez', 'Brush Script MT', 'Papyrus', cursive;
+  font-family: 'Montez', cursive;
 }
 
 #branding {
-  font-size: 2em;
+  color: #fff;
 }
 /*
 .navbar-dark.bg-dark {
