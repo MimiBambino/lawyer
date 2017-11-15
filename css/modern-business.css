@@ -49,9 +49,9 @@ body {
 }
 
 .capC {
-  color: #008cb0;
+  /*color: #008cb0;*/
   font-size: 3em;
-  font-family: 'Montez', cursive;
+  font-family: 'Montez', cursive!important;
 }
 
 #branding {
