@@ -45,7 +45,7 @@ body {
 }
 
 .navbar-dark.bg-dark {
-  background-color: #008cb0;
+  background-color: #008cb0!important;
 }
 
 /*.bg-dark {
