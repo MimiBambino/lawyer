@@ -47,6 +47,11 @@ body {
 .turquoise {
   background-color: #008cb0!important;
 }
+
+.capC {
+  color: #008cb0;
+  font-size: 3em;
+}
 /*
 .navbar-dark.bg-dark {
   background-color: #008cb0!important;
